@@ -42,10 +42,6 @@ To create a public toilet that is:
 
 **Clean • Accessible • Sustainable • Smart**
 
-### Concept Design
-
-![Smart Public Toilet](smart-toilet-ahmedabad.png)
-
 ## 🏆 Hackathon
 
 **Google Gemini Hackathon 2026**
