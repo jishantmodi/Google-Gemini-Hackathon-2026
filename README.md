@@ -1,3 +1,5 @@
+<img width="1408" height="768" alt="Google-Gemini-Hackathon-2026" src="https://github.com/user-attachments/assets/2c58aa1d-5d43-4feb-b872-a7ecd3ad9d33" />
+<img width="1408" height="768" alt="Google-Gemini-Hackathon-2026" src="https://github.com/user-attachments/assets/2ee0b7cf-2db8-4788-90d9-ccc2b811ed6a" />
 # Google Gemini Hackathon 2026 🚀
 
 ## Smart Public Toilet for Ahmedabad 🚻
